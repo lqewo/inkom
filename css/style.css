@@ -1038,6 +1038,7 @@ input {
 
   .card__inner {
     width: auto;
+    max-height: initial;
   }
 
   .card__title,
